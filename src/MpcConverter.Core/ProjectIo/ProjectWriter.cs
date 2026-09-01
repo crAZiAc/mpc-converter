@@ -15,8 +15,12 @@ public static class ProjectWriter
     /// (the samples) — matching how MPC stores projects.</item>
     /// <item><b>Unpacked</b> (<paramref name="packageAsXpj"/> = false): also writes the
     /// uncompressed inner ACVS file <c>&lt;name&gt;/&lt;name&gt;</c> alongside the .xpj.</item>
+    /// <item><b>Flat output</b> (<paramref name="flatOutput"/> = true): writes
+    /// <c>&lt;destParent&gt;/&lt;name&gt;.xpj</c> and
+    /// <c>&lt;destParent&gt;/&lt;name&gt;_[ProjectData]/</c> directly in
+    /// <paramref name="destParent"/>.</item>
     /// </list>
-    /// Returns the path to the created project folder.
+    /// Returns a path that can be opened by <see cref="ProjectReader.Open(string)"/>.
     /// </summary>
     /// <param name="sampleFileNames">
     /// Sample file names (as stored in the project's <c>samples[].path</c>) to copy
@@ -29,21 +33,32 @@ public static class ProjectWriter
         IEnumerable<string> sampleFileNames,
         bool overwrite,
         IList<string>? warnings = null,
-        bool packageAsXpj = true)
+        bool packageAsXpj = true,
+        bool flatOutput = false)
     {
         ArgumentNullException.ThrowIfNull(project);
         ArgumentException.ThrowIfNullOrWhiteSpace(destParent);
         ArgumentException.ThrowIfNullOrWhiteSpace(name);
 
-        var projectFolder = Path.Combine(destParent, name);
+        var projectFolder = flatOutput ? destParent : Path.Combine(destParent, name);
         var xpjFile = Path.Combine(projectFolder, name + ".xpj");
         var projectDataDir = Path.Combine(projectFolder, name + "_[ProjectData]");
 
-        if (Directory.Exists(projectFolder))
+        if (!flatOutput && Directory.Exists(projectFolder))
         {
             if (!overwrite)
                 throw new IOException($"Output already exists: '{projectFolder}'. Enable overwrite.");
             Directory.Delete(projectFolder, recursive: true);
+        }
+        else if (flatOutput)
+        {
+            if (!overwrite && (File.Exists(xpjFile) || Directory.Exists(projectDataDir)))
+                throw new IOException($"Output already exists: '{xpjFile}' or '{projectDataDir}'. Enable overwrite.");
+
+            if (File.Exists(xpjFile))
+                File.Delete(xpjFile);
+            if (Directory.Exists(projectDataDir))
+                Directory.Delete(projectDataDir, recursive: true);
         }
 
         Directory.CreateDirectory(projectFolder);
@@ -60,7 +75,7 @@ public static class ProjectWriter
 
         CopySamples(project, projectDataDir, sampleFileNames, warnings);
 
-        return projectFolder;
+        return flatOutput ? xpjFile : projectFolder;
     }
 
     private static void CopySamples(
@@ -84,7 +99,11 @@ public static class ProjectWriter
             }
             try
             {
-                File.Copy(src, Path.Combine(projectDataDir, sample), overwrite: true);
+                var dest = Path.Combine(projectDataDir, sample);
+                var parent = Path.GetDirectoryName(dest);
+                if (!string.IsNullOrWhiteSpace(parent))
+                    Directory.CreateDirectory(parent);
+                File.Copy(src, dest, overwrite: true);
             }
             catch (Exception ex) when (ex is IOException or UnauthorizedAccessException)
             {

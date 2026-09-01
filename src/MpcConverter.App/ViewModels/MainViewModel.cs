@@ -277,6 +277,7 @@ public partial class MainViewModel : ObservableObject
             var (project, report) = Converter.Convert(_source, map);
 
             var destParent = Settings.OutputFolder;
+            var flatOutput = !string.IsNullOrWhiteSpace(destParent);
             if (string.IsNullOrWhiteSpace(destParent))
             {
                 // Default: sibling of the source project folder.
@@ -288,8 +289,9 @@ public partial class MainViewModel : ObservableObject
             var outName = _source.Name + " (converted)";
             var warnings = new List<string>();
             var samples = Converter.ReferencedSampleFiles(project);
-            var folder = ProjectWriter.Write(project, destParent!, outName, samples, overwrite: true, warnings);
-            Converter.SelfCheck(folder, map, expectedEvents);
+            var writtenProject = ProjectWriter.Write(
+                project, destParent!, outName, samples, overwrite: true, warnings, flatOutput: flatOutput);
+            Converter.SelfCheck(writtenProject, map, expectedEvents);
 
             var fullReport = new ConversionReport(
                 report.TracksCreated, report.PadsPlaced, report.EventsMoved,
@@ -297,8 +299,8 @@ public partial class MainViewModel : ObservableObject
                 report.Warnings.Concat(warnings).ToList(),
                 report.Decisions);
 
-            Status = $"Converted → {folder}";
-            new ReportWindow(fullReport, folder).ShowDialog();
+            Status = $"Converted → {writtenProject}";
+            new ReportWindow(fullReport, writtenProject).ShowDialog();
         }
         catch (Exception ex)
         {

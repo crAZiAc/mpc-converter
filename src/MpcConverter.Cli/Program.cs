@@ -68,14 +68,15 @@ foreach (var input in inputs)
         var (project, report) = Converter.Convert(source, map);
 
         var destParent = options.OutputDir ?? Path.GetDirectoryName(Path.GetFullPath(input))!;
+        var flatOutput = options.OutputDir is not null;
         var name = source.Name + options.Suffix;
         var referenced = Converter.ReferencedSampleFiles(project);
         var warnings = new List<string>();
-        var folder = ProjectWriter.Write(
+        var writtenProject = ProjectWriter.Write(
             project, destParent, name, referenced,
-            overwrite: options.Overwrite, warnings);
+            overwrite: options.Overwrite, warnings, flatOutput: flatOutput);
 
-        Converter.SelfCheck(folder, map, report.EventsMoved);
+        Converter.SelfCheck(writtenProject, map, report.EventsMoved);
 
         int copied = referenced.Count - warnings.Count;
         Console.WriteLine(

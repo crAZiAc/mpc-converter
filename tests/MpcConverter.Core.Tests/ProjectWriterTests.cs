@@ -53,4 +53,20 @@ public class ProjectWriterTests
 
         Assert.Contains(warnings, w => w.Contains("does-not-exist.wav"));
     }
+
+    [Fact]
+    public void Write_FlatOutput_WritesXpjAndProjectDataIntoOutputFolder()
+    {
+        var src = ProjectReader.Open(FixturePaths.HouseFolder);
+        var tmp = TestUtil.TempDir();
+        var samples = src.Data["samples"]!.AsArray().Select(s => (string)s!["path"]!);
+
+        var written = ProjectWriter.Write(src, tmp, "House copy", samples,
+            overwrite: true, warnings: null, packageAsXpj: true, flatOutput: true);
+
+        Assert.Equal(Path.Combine(tmp, "House copy.xpj"), written);
+        Assert.True(File.Exists(Path.Combine(tmp, "House copy.xpj")));
+        Assert.True(Directory.Exists(Path.Combine(tmp, "House copy_[ProjectData]")));
+        Assert.False(Directory.Exists(Path.Combine(tmp, "House copy")));
+    }
 }
