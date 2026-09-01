@@ -14,6 +14,12 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>app.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Icon for the window chrome (Resource); the exe icon comes from ApplicationIcon. -->
+    <Resource Include="app.ico" />
+  </ItemGroup>
 
 </Project>

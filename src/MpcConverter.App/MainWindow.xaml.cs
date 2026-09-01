@@ -31,7 +31,8 @@ public partial class MainWindow : Window
         }
         var initial = rows[0].DestTrackName ?? "";
         var name = InputDialog.Ask(this,
-            $"Assign {rows.Length} selected pad(s) to track:", "Group selected", initial);
+            $"Assign {rows.Length} selected pad(s) to track:", "Group selected", initial,
+            suggestions: Vm.TrackNameOptions);
         if (name is not null)
             Vm.GroupRows(rows, name);
     }

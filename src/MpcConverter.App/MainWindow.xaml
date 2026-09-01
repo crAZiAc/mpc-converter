@@ -3,6 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:vm="clr-namespace:MpcConverter.App.ViewModels"
         Title="MPC Sample → 3.9 Converter" Height="620" Width="900"
+        Icon="app.ico"
         WindowStartupLocation="CenterScreen">
     <Window.DataContext>
         <vm:MainViewModel/>
@@ -21,6 +22,9 @@
                 <Button Content="Group selected…" Click="GroupSelected_Click"
                         ToolTip="Assign all selected pads to one track (Ctrl/Shift-click to multi-select)"/>
                 <Button Content="Skip selected" Click="SkipSelected_Click"/>
+                <Separator/>
+                <Button Content="◼ Stop" Command="{Binding StopPlaybackCommand}"
+                        ToolTip="Stop pad playback"/>
                 <Separator/>
                 <Button Content="Settings…" Command="{Binding OpenSettingsCommand}"/>
             </ToolBar>
@@ -59,6 +63,17 @@
                   HeadersVisibility="Column"
                   GridLinesVisibility="Horizontal">
             <DataGrid.Columns>
+                <DataGridTemplateColumn Header="" Width="38">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="▶" FontSize="12" Padding="0" Margin="2"
+                                    ToolTip="Play this pad's sample"
+                                    Command="{Binding DataContext.PlayPadCommand,
+                                              RelativeSource={RelativeSource AncestorType=Window}}"
+                                    CommandParameter="{Binding}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
                 <DataGridTextColumn Header="Pad" Binding="{Binding PadIndex}" IsReadOnly="True" Width="50"/>
                 <DataGridTextColumn Header="Note" Binding="{Binding SourceNote}" IsReadOnly="True" Width="55"/>
                 <DataGridTextColumn Header="Sample(s)" Binding="{Binding Samples}" IsReadOnly="True" Width="*"/>

@@ -44,6 +44,22 @@ public class ConverterTests
         // Tracks = 20 drum + 28 mixer.
         Assert.Equal(48, project.Data["tracks"]!.AsArray().Count);
 
+        // Native mixer config (drives the output/submix level meters).
+        var mixer = project.Data["mixer"]!.AsObject();
+        Assert.Equal(16, mixer["outputs"]!.AsArray().Count);
+        Assert.Equal(8, mixer["submixes"]!.AsArray().Count);
+        Assert.Equal(4, mixer["sends"]!.AsArray().Count);
+
+        // Drum tracks are coloured from MPC's 16-colour palette, cycling (reused)
+        // beyond 16 tracks; the first 16 are distinct.
+        var palette = Converter.Palette.ToHashSet();
+        var drumColours = project.Data["tracks"]!.AsArray()
+            .Where(t => (int?)t!["program"]?["type"] == 0)
+            .Select(t => (int)t!["colour"]!)
+            .ToList();
+        Assert.All(drumColours, c => Assert.Contains(c, palette));
+        Assert.Equal(System.Math.Min(drumColours.Count, 16), drumColours.Take(16).Distinct().Count());
+
         // Every sequence must list EVERY track (empty clips for non-playing tracks),
         // like a native MPC project — otherwise MPC shows only the tracks that play.
         var trackNames = project.Data["tracks"]!.AsArray()

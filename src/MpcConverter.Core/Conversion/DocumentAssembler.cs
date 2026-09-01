@@ -24,8 +24,13 @@ public static class DocumentAssembler
         JsonObject data, IReadOnlyList<JsonObject> drumTracks, ConversionReportBuilder report)
     {
         data["version"] = 30;
-        if (data["mixer"]?["input"] is JsonObject input)
-            input["version"] = 6;
+
+        // Replace the old Sample-format mixer config with the native 3.x one. The
+        // source mixer defines only 2 outputs / 1 submix / 0 sends, but we add the
+        // full 28-track mixer tree (8 submixes, 4 returns, 16 outputs); the output
+        // and submix LEVEL METERS read this config, so it must match the tracks or
+        // the meters don't work.
+        data["mixer"] = TemplateStore.Get("document")["mixer"]!.DeepClone();
 
         data["originalCreatorProductIdentifier"] = NativeProductIdentifier;
         data["lastSavedProductIdentifier"] = NativeProductIdentifier;

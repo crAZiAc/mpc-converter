@@ -42,6 +42,9 @@ public class ProgramBuilderTests
         // program.samples contains the kick sample.
         Assert.Contains(program["samples"]!.AsArray(),
             s => (string?)s!["name"] == "BDRUM12");
+
+        // Pad output routes to Program (0), not directly to Out 1/2 (2).
+        Assert.Equal(0, (int)instr0["mixable"]!["audioRoute"]!["destination"]!);
     }
 
     [Fact]

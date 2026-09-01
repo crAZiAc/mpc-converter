@@ -14,6 +14,33 @@ public static class Converter
     public const int TargetDataVersion = 30;
 
     /// <summary>
+    /// MPC's 16-colour track/pad palette (stored as 0xRRGGBB integers), spread around
+    /// the hue wheel. Values are taken from native MPC projects.
+    /// </summary>
+    public static readonly int[] Palette =
+    {
+        0xFF0000, // red
+        0xFF6D17, // orange
+        0xFF8800, // amber-orange
+        0xFFD500, // amber
+        0xE6FF00, // yellow
+        0xA2FF00, // yellow-green
+        0x55FF00, // lime
+        0x11FF00, // green
+        0x00FF80, // spring green
+        0x00FFC4, // teal
+        0x00AAFF, // sky blue
+        0x0066FF, // blue
+        0x0022FF, // deep blue
+        0x5200FF, // indigo
+        0xB200FF, // violet
+        0xFF00FF, // magenta
+    };
+
+    /// <summary>The palette colour for a track, cycling (reused) beyond 16 tracks.</summary>
+    public static int TrackColour(int index) => Palette[index % Palette.Length];
+
+    /// <summary>
     /// Converts a source "Sample" project to a 3.10 track-based project in memory,
     /// splitting the Drum program's pads into tracks per <paramref name="map"/>.
     /// The source project is never modified.
@@ -39,9 +66,11 @@ public static class Converter
 
         // Build the new drum tracks (reads source samples + instruments).
         var drumTracks = new List<JsonObject>();
-        foreach (var dest in map.Tracks)
+        for (int i = 0; i < map.Tracks.Count; i++)
         {
+            var dest = map.Tracks[i];
             var track = ProgramBuilder.BuildDrumTrack(data, sourceDrumProgram, dest);
+            track["colour"] = TrackColour(i);
             drumTracks.Add(track);
             report.PadsPlaced += dest.PadIndices.Count;
         }

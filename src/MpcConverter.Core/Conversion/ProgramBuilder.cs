@@ -69,11 +69,20 @@ public static class ProgramBuilder
         return track;
     }
 
+    // Pad output routing: destination 0 = "Program" (the track), 2 = "Out 1/2".
+    // Source Sample projects route each pad direct to Out 1/2, which bypasses the
+    // track's mixer channel (and its meter); native projects route pads to Program.
+    private const int RouteToProgram = 0;
+
     /// <summary>Upgrades a v28 drum instrument (and each of its layers) to v29 schema.</summary>
     public static JsonObject UpgradeInstrument(JsonObject srcInstr)
     {
         var merged = JsonMerge.UpgradeOnto(TemplateStore.Get("instrument"), srcInstr);
         merged["version"] = InstrumentVersion;
+
+        // Route the pad's output to the Program (Track), not directly to an output.
+        if (merged["mixable"]?["audioRoute"] is JsonObject audioRoute)
+            audioRoute["destination"] = RouteToProgram;
 
         // The plain merge copies the source layersv array wholesale (v28 schema);
         // re-upgrade each layer onto the 3.10 layer template so new fields exist.

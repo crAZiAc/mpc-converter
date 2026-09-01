@@ -46,6 +46,38 @@ Run the tests:
 dotnet test mpc-converter.slnx
 ```
 
+## Command line (batch)
+
+`MpcConverter.Cli` is a plain Windows console app that converts one or many projects
+without the UI (offline, rule-based grouping). It builds to **`mpcconvert.exe`**.
+
+Run the built exe directly:
+
+```bash
+src\MpcConverter.Cli\bin\Release\net10.0\mpcconvert.exe "House os 01.xpj"
+```
+
+Or via the dev shortcut while working in the repo:
+
+```bash
+dotnet run --project src/MpcConverter.Cli -- C:\Projects --recursive --out C:\Converted --overwrite
+dotnet run --project src/MpcConverter.Cli -- a.xpj b.xpj --group per-pad
+```
+
+For a **portable single `.exe`** that runs on any Windows machine without the .NET
+runtime installed:
+
+```bash
+dotnet publish src/MpcConverter.Cli -c Release -r win-x64 --self-contained
+```
+
+The result is one `mpcconvert.exe` (~80 MB) you can copy anywhere or put on your PATH.
+
+Inputs are `.xpj` files or directories to scan. Options: `--out <dir>`,
+`--group rules|per-pad|one`, `--track-name <s>`, `--suffix <s>`, `--overwrite`,
+`--recursive`, `--help`. Each source's `_[ProjectData]` folder must sit next to its
+`.xpj`.
+
 ## AI classification (optional)
 
 AI grouping is **off by default**; the app works fully offline with rule-based
@@ -67,7 +99,8 @@ src/MpcConverter.Core/     conversion engine (no WPF, fully unit-tested)
   Conversion/              merge, program builder, sequence rewriter, orchestrator
   Classification/          rule-based + Claude classifiers
   Settings/                app settings + DPAPI key store
-src/MpcConverter.App/      WPF MVVM UI
+src/MpcConverter.App/      WPF MVVM UI (app.ico = pad-grid icon)
+src/MpcConverter.Cli/      batch command-line converter
 tests/MpcConverter.Core.Tests/   xUnit tests (use the reference projects as fixtures)
 docs/superpowers/          design spec + implementation plan
 ```
