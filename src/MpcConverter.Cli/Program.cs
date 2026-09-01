@@ -178,7 +178,7 @@ sealed class CliOptions
     public static void PrintHelp()
     {
         Console.WriteLine("""
-mpcconvert — batch-convert AKAI MPC Sample projects to MPC 3.9 (track-based).
+mpcconvert — batch-convert AKAI MPC Sample projects to MPC 3 (track-based).
 
 USAGE:
   mpcconvert <input.xpj | directory> [more…] [options]

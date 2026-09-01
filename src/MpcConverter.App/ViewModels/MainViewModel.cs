@@ -5,7 +5,6 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Text.Json.Nodes;
-using System.Windows.Media;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using MpcConverter.App.Views;
@@ -22,7 +21,6 @@ public partial class MainViewModel : ObservableObject
 {
     private MpcProject? _source;
     private IReadOnlyList<PadInfo> _pads = Array.Empty<PadInfo>();
-    private readonly MediaPlayer _player = new();
 
     public ObservableCollection<PadRowViewModel> Pads { get; } = new();
 
@@ -102,46 +100,6 @@ public partial class MainViewModel : ObservableObject
         RefreshTrackOptions();
         Status = "Applied: all pads to one 'Drums' track.";
     }
-
-    /// <summary>Auditions a pad's sample so the user can identify it.</summary>
-    [RelayCommand]
-    private void PlayPad(PadRowViewModel? row)
-    {
-        if (row is null) return;
-        if (_source?.ProjectDataDir is null)
-        {
-            Status = "No sample folder available for playback.";
-            return;
-        }
-        var file = row.Pad.SampleFiles.FirstOrDefault()
-                   ?? (row.Pad.SampleNames.FirstOrDefault() is { } n ? n + ".wav" : null);
-        if (file is null)
-        {
-            Status = "Pad has no sample to play.";
-            return;
-        }
-        var path = Path.Combine(_source.ProjectDataDir, file);
-        if (!File.Exists(path))
-        {
-            Status = "Sample not found on disk: " + file;
-            return;
-        }
-        try
-        {
-            _player.Stop();
-            _player.Open(new Uri(path, UriKind.Absolute));
-            _player.Play();
-            Status = "Playing: " + file;
-        }
-        catch (Exception ex)
-        {
-            Status = "Playback failed: " + ex.Message;
-        }
-    }
-
-    /// <summary>Stops any pad currently auditioning.</summary>
-    [RelayCommand]
-    private void StopPlayback() => _player.Stop();
 
     /// <summary>Assigns the given rows to one destination track (a combine-group).</summary>
     public void GroupRows(IEnumerable<PadRowViewModel> rows, string trackName)
@@ -273,7 +231,7 @@ public partial class MainViewModel : ObservableObject
                 destParent = sourceParent ?? Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
             }
 
-            var outName = _source.Name + " (3.9)";
+            var outName = _source.Name + " (converted)";
             var warnings = new List<string>();
             var samples = Converter.ReferencedSampleFiles(project);
             var folder = ProjectWriter.Write(project, destParent!, outName, samples, overwrite: true, warnings);
