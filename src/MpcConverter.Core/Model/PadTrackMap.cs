@@ -15,6 +15,8 @@ public sealed record DestTrack(string Name, IReadOnlyList<int> PadIndices);
 public sealed class PadTrackMap
 {
     public const int MaxSlotsPerTrack = 128;
+    private const string ReservedSampleTrackName = "Sample";
+    private const string FallbackTrackName = "Melodic";
 
     public IReadOnlyList<DestTrack> Tracks { get; }
 
@@ -37,7 +39,7 @@ public sealed class PadTrackMap
         foreach (var p in pads)
         {
             var baseName = p.SampleNames.Count > 0 ? p.SampleNames[0] : $"Pad {p.PadIndex}";
-            var name = Uniquify(baseName, used);
+            var name = Uniquify(NormalizeTrackName(baseName), used);
             tracks.Add(new DestTrack(name, new[] { p.PadIndex }));
         }
         return new PadTrackMap(tracks);
@@ -47,7 +49,7 @@ public sealed class PadTrackMap
     public static PadTrackMap AllToOne(IEnumerable<PadInfo> pads, string name)
     {
         var indices = pads.Select(p => p.PadIndex).ToArray();
-        return new PadTrackMap(new[] { new DestTrack(name, indices) });
+        return new PadTrackMap(new[] { new DestTrack(NormalizeTrackName(name), indices) });
     }
 
     /// <summary>
@@ -64,11 +66,12 @@ public sealed class PadTrackMap
         {
             if (!padToTrack.TryGetValue(p.PadIndex, out var track) || string.IsNullOrWhiteSpace(track))
                 continue; // skipped
-            if (!groups.TryGetValue(track, out var list))
+            var normalized = NormalizeTrackName(track);
+            if (!groups.TryGetValue(normalized, out var list))
             {
                 list = new List<int>();
-                groups[track] = list;
-                order.Add(track);
+                groups[normalized] = list;
+                order.Add(normalized);
             }
             list.Add(p.PadIndex);
         }
@@ -114,5 +117,14 @@ public sealed class PadTrackMap
         while (!used.Add(name))
             name = $"{baseName} {i++}";
         return name;
+    }
+
+    private static string NormalizeTrackName(string name)
+    {
+        var trimmed = name.Trim();
+        if (trimmed.Length == 0) return FallbackTrackName;
+        return string.Equals(trimmed, ReservedSampleTrackName, StringComparison.OrdinalIgnoreCase)
+            ? FallbackTrackName
+            : trimmed;
     }
 }

@@ -45,6 +45,17 @@ public class ProgramBuilderTests
 
         // Pad output routes to Program (0), not directly to Out 1/2 (2).
         Assert.Equal(0, (int)instr0["mixable"]!["audioRoute"]!["destination"]!);
+
+        // Nested schema versions come from the 3.10 template, not the old source
+        // (stale versions make MPC reject warp-enabled pads and load blank).
+        var tmplInstr = MpcConverter.Core.Templates.TemplateStore.Get("instrument");
+        var tmplLayer = MpcConverter.Core.Templates.TemplateStore.Get("layer");
+        Assert.Equal((int)tmplInstr["synthSection"]!["version"]!, (int)instr0["synthSection"]!["version"]!);
+        Assert.Equal((int)tmplLayer["version"]!, (int)layer0["version"]!);
+
+        // Layer oscillator must be inert (all-zero params). A stray non-zero param in
+        // the template made MPC reject drum pads with stacked (multi) sample layers.
+        Assert.All(layer0["oscillatorParams"]!.AsArray(), v => Assert.Equal(0.0, (double)v!, 6));
     }
 
     [Fact]

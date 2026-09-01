@@ -17,6 +17,31 @@ public partial class MainWindow : Window
 
     private MainViewModel Vm => (MainViewModel)DataContext;
 
+    private static string? DroppedProjectPath(DragEventArgs e)
+    {
+        if (!e.Data.GetDataPresent(DataFormats.FileDrop)) return null;
+        var paths = (string[])e.Data.GetData(DataFormats.FileDrop);
+        if (paths is null || paths.Length == 0) return null;
+        // Accept a .xpj file, or a folder (ProjectReader resolves the .xpj inside).
+        return paths.FirstOrDefault(p =>
+            p.EndsWith(".xpj", System.StringComparison.OrdinalIgnoreCase) ||
+            System.IO.Directory.Exists(p));
+    }
+
+    private void Window_DragOver(object sender, DragEventArgs e)
+    {
+        e.Effects = DroppedProjectPath(e) is not null ? DragDropEffects.Copy : DragDropEffects.None;
+        e.Handled = true;
+    }
+
+    private void Window_Drop(object sender, DragEventArgs e)
+    {
+        var path = DroppedProjectPath(e);
+        if (path is not null)
+            Vm.LoadProject(path);
+        e.Handled = true;
+    }
+
     private PadRowViewModel[] SelectedRows() =>
         PadGrid.SelectedItems.OfType<PadRowViewModel>().ToArray();
 

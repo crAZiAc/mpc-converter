@@ -65,4 +65,19 @@ public class PadTrackMapTests
         var map = PadTrackMap.OneTrackPerPad(pads);
         Assert.Equal(2, map.Tracks.Select(t => t.Name).Distinct().Count());
     }
+
+    [Fact]
+    public void FromAssignments_ReservedSampleTrackName_IsNormalized()
+    {
+        var pads = ThreePads();
+        var map = PadTrackMap.FromAssignments(pads, new Dictionary<int, string?>
+        {
+            [0] = "Sample", [1] = "Drums", [2] = "sample",
+        });
+
+        Assert.Contains(map.Tracks, t => t.Name == "Melodic");
+        Assert.DoesNotContain(map.Tracks, t => t.Name == "Sample");
+        Assert.Equal("Melodic", map.TrackOf(0));
+        Assert.Equal("Melodic", map.TrackOf(2));
+    }
 }

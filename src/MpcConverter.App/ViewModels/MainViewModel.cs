@@ -65,12 +65,20 @@ public partial class MainViewModel : ObservableObject
             CheckFileExists = true,
         };
         if (dlg.ShowDialog() != true) return;
+        LoadProject(dlg.FileName);
+    }
 
+    /// <summary>
+    /// Opens a project from a path (an .xpj file or a project folder). Shared by the
+    /// Open dialog and by drag-and-drop onto the window.
+    /// </summary>
+    public void LoadProject(string path)
+    {
         try
         {
             StopPlayback();
 
-            _source = ProjectReader.Open(dlg.FileName);
+            _source = ProjectReader.Open(path);
             _pads = PadAnalyzer.Analyze(_source.Data);
             BuildSampleFileIndex();
 
@@ -179,8 +187,11 @@ public partial class MainViewModel : ObservableObject
         IsBusy = true;
         try
         {
+            Status = "Preparing pad-group suggestions...";
+
             IPadClassifier classifier = new RuleBasedClassifier();
             bool usedAi = false;
+            string? aiUnavailableReason = null;
 
             if (Settings.AiEnabled)
             {
@@ -189,25 +200,37 @@ public partial class MainViewModel : ObservableObject
                 {
                     try
                     {
+                        Status = $"Calling Claude ({Settings.Model}) for {_pads.Count} pad(s)...";
                         var ai = new ClaudeClassifier(key!, Settings.Model);
                         var aiResult = await ai.SuggestAsync(_pads);
                         ApplySuggestions(aiResult);
                         usedAi = true;
                         Status = "Suggested groups using Claude (" + Settings.Model + ").";
                     }
-                    catch (ClassifierUnavailableException)
+                    catch (ClassifierUnavailableException ex)
                     {
-                        // fall back to rules below
+                        aiUnavailableReason = ex.Message;
+                        Status = "Claude unavailable — falling back to offline rules...";
                     }
+                }
+                else
+                {
+                    aiUnavailableReason = "No API key configured.";
+                    Status = "AI is enabled but no API key is configured — using offline rules...";
                 }
             }
 
             if (!usedAi)
             {
+                if (!Settings.AiEnabled)
+                    Status = "Running offline rule-based suggestions...";
+
                 var rules = await classifier.SuggestAsync(_pads);
                 ApplySuggestions(rules);
                 Status = Settings.AiEnabled
-                    ? "Claude unavailable — used offline rule-based suggestions."
+                    ? "Claude unavailable"
+                        + (string.IsNullOrWhiteSpace(aiUnavailableReason) ? "" : $" ({aiUnavailableReason})")
+                        + " — used offline rule-based suggestions."
                     : "Suggested groups using offline rules.";
             }
         }

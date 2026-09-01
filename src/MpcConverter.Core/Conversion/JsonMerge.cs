@@ -23,6 +23,14 @@ public static class JsonMerge
         foreach (var key in System.Linq.Enumerable.ToList(GetKeys(target)))
         {
             if (!source.ContainsKey(key)) continue; // template-only key: keep default
+
+            // "version" is always a schema-version number: keep the TEMPLATE's
+            // (target-format) value, never the source's. Otherwise the upgraded
+            // element carries the old format's version (e.g. layer v11, synthSection
+            // v28), which MPC rejects for some features (warp-enabled pads) — it
+            // loads a blank default. The template values match what MPC itself writes.
+            if (key == "version" && target[key] is JsonValue) continue;
+
             var srcVal = source[key];
             var tgtVal = target[key];
 

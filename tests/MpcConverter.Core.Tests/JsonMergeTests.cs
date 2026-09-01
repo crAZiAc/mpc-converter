@@ -13,7 +13,7 @@ public class JsonMergeTests
         var src = (JsonObject)JsonNode.Parse("""{"version":28,"a":42,"extra":7}""")!;
         var r = JsonMerge.UpgradeOnto(tmpl, src);
         Assert.Equal(42, (int)r["a"]!);       // shared → source
-        Assert.Equal(28, (int)r["version"]!); // shared → source (caller bumps after)
+        Assert.Equal(29, (int)r["version"]!); // "version" always kept from template
         Assert.True((bool)r["newField"]!);    // template-only kept
         Assert.False(r.ContainsKey("extra")); // source-only dropped
     }
@@ -27,6 +27,20 @@ public class JsonMergeTests
         Assert.Equal(5, (int)r["o"]!["x"]!);
         Assert.Equal(9, (int)r["o"]!["newX"]!);
         Assert.False(r["o"]!.AsObject().ContainsKey("gone"));
+    }
+
+    [Fact]
+    public void Upgrade_KeepsNestedTemplateVersions()
+    {
+        // Nested schema versions must come from the template (target format), not the
+        // old source — MPC rejects stale versions on warp-enabled pads.
+        var tmpl = (JsonObject)JsonNode.Parse("""{"version":29,"synth":{"version":29},"layers":[{"version":18}]}""")!;
+        var src = (JsonObject)JsonNode.Parse("""{"version":28,"synth":{"version":28},"layers":[{"version":11}]}""")!;
+        var r = JsonMerge.UpgradeOnto(tmpl, src);
+        Assert.Equal(29, (int)r["version"]!);
+        Assert.Equal(29, (int)r["synth"]!["version"]!);
+        // arrays are taken from source wholesale, so array-element versions are the
+        // caller's responsibility (ProgramBuilder re-upgrades each layer).
     }
 
     [Fact]

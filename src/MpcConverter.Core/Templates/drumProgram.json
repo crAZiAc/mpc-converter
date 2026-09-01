@@ -1092,12 +1092,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -1162,7 +1162,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -1232,12 +1232,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -1302,7 +1302,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -1372,12 +1372,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -1442,7 +1442,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -1512,12 +1512,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -1582,7 +1582,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -2594,12 +2594,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -2664,7 +2664,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -2734,12 +2734,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -2804,7 +2804,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -2874,12 +2874,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -2944,7 +2944,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -3014,12 +3014,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -3084,7 +3084,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -4096,12 +4096,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -4166,7 +4166,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -4236,12 +4236,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -4306,7 +4306,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -4376,12 +4376,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -4446,7 +4446,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -4516,12 +4516,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -4586,7 +4586,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -5598,12 +5598,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -5668,7 +5668,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -5738,12 +5738,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -5808,7 +5808,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -5878,12 +5878,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -5948,7 +5948,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -6018,12 +6018,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -6088,7 +6088,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -7100,12 +7100,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -7170,7 +7170,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -7240,12 +7240,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -7310,7 +7310,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -7380,12 +7380,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -7450,7 +7450,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -7520,12 +7520,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -7590,7 +7590,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -8602,12 +8602,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -8672,7 +8672,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -8742,12 +8742,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -8812,7 +8812,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -8882,12 +8882,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -8952,7 +8952,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -9022,12 +9022,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -9092,7 +9092,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -10104,12 +10104,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -10174,7 +10174,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -10244,12 +10244,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -10314,7 +10314,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -10384,12 +10384,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -10454,7 +10454,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -10524,12 +10524,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -10594,7 +10594,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -11606,12 +11606,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -11676,7 +11676,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -11746,12 +11746,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -11816,7 +11816,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -11886,12 +11886,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -11956,7 +11956,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -12026,12 +12026,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -12096,7 +12096,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -13108,12 +13108,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -13178,7 +13178,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -13248,12 +13248,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -13318,77 +13318,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
-0.0,
 0.0,
-0.0,
-0.0,
-0.0,
-0.0
-],
-"quadrantEnabled": {
-"value0": true,
-"value1": true,
-"value2": true,
-"value3": true
-},
-"sliceIncrement": 0,
-"sliceCycleLength": 1,
-"sliceIncrementRngSeed": 147344,
-"playbackOffset": 0.0
-},
-{
-"active": true,
-"volume": {
-"gainCoefficient": 1.0,
-"controlValue": 1.0,
-"law": 1
-},
-"pan": 0.5,
-"pitch": 0.0,
-"coarseTune": 0,
-"fineTune": 0,
-"velocityStart": 0,
-"velocityEnd": 127,
-"sampleStart": 0,
-"sampleEnd": 0,
-"loop": false,
-"loopStart": 0,
-"loopEnd": 0,
-"loopCrossfadeLength": 0,
-"loopFineTune": 0,
-"mute": false,
-"rootNote": 0,
-"keyTrackEnable": false,
-"sampleName": "",
-"sampleFile": "",
-"sliceIndex": 128,
-"direction": 0,
-"offset": 0,
-"sliceInfo": {
-"Start": 0,
-"End": 0,
-"LoopStart": 0,
-"LoopMode": 0,
-"PulsePosition": 0,
-"LoopCrossfadeLength": 0,
-"LoopCrossfadeType": 0,
-"TailLength": 0.0,
-"TailLoopPosition": 0.5,
-"NumLoopRepeats": 0
-},
-"version": 18,
-"pitchRandom": 0.0,
-"VolumeRandom": 0.0,
-"PanRandom": 0.0,
-"OffsetRandom": 0.0,
-"layerLoopModeOverridesSliceLoopMode": false,
-"loopMode": 0,
-"oscillatorMode": false,
-"OscillatorType": "Warm Sine",
-"oscillatorSubTypeName": "",
-"oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
@@ -13458,77 +13388,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
-0.0,
-0.0,
 0.0,
-0.0,
-0.0,
-0.0
-],
-"quadrantEnabled": {
-"value0": true,
-"value1": true,
-"value2": true,
-"value3": true
-},
-"sliceIncrement": 0,
-"sliceCycleLength": 1,
-"sliceIncrementRngSeed": 147344,
-"playbackOffset": 0.0
-},
-{
-"active": true,
-"volume": {
-"gainCoefficient": 1.0,
-"controlValue": 1.0,
-"law": 1
-},
-"pan": 0.5,
-"pitch": 0.0,
-"coarseTune": 0,
-"fineTune": 0,
-"velocityStart": 0,
-"velocityEnd": 127,
-"sampleStart": 0,
-"sampleEnd": 0,
-"loop": false,
-"loopStart": 0,
-"loopEnd": 0,
-"loopCrossfadeLength": 0,
-"loopFineTune": 0,
-"mute": false,
-"rootNote": 0,
-"keyTrackEnable": false,
-"sampleName": "",
-"sampleFile": "",
-"sliceIndex": 128,
-"direction": 0,
-"offset": 0,
-"sliceInfo": {
-"Start": 0,
-"End": 0,
-"LoopStart": 0,
-"LoopMode": 0,
-"PulsePosition": 0,
-"LoopCrossfadeLength": 0,
-"LoopCrossfadeType": 0,
-"TailLength": 0.0,
-"TailLoopPosition": 0.5,
-"NumLoopRepeats": 0
-},
-"version": 18,
-"pitchRandom": 0.0,
-"VolumeRandom": 0.0,
-"PanRandom": 0.0,
-"OffsetRandom": 0.0,
-"layerLoopModeOverridesSliceLoopMode": false,
-"loopMode": 0,
-"oscillatorMode": false,
-"OscillatorType": "Warm Sine",
-"oscillatorSubTypeName": "",
-"oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
@@ -13598,67 +13458,207 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
-0.0
-],
-"quadrantEnabled": {
-"value0": true,
-"value1": true,
-"value2": true,
-"value3": true
-},
-"sliceIncrement": 0,
-"sliceCycleLength": 1,
-"sliceIncrementRngSeed": 147344,
-"playbackOffset": 0.0
-}
-],
-"editAllLayers": false,
-"chopProperties": {
-"version": 1,
-"chopMode": 0,
-"chopThreshold": 65,
-"chopMinSliceTime": 100,
-"chopRegions": 16,
-"chopBars": 1,
-"chopBeats": 4,
-"chopTimeSignature": 2
-},
-"noteCounters": {
-"value0": 2,
-"value1": 2
-},
-"modLinks": [
-{
-"link.source": 0,
-"link.target": 0,
-"link.min": 0.0,
-"link.max": 1.0,
-"link.amount": 1.0,
-"link.viaSource": 0,
-"link.viaAmount": 1.0,
-"link.shaper": 0,
-"link.shaperAmount": 1.0,
-"version": 2,
-"link.bipolar": false,
-"link.enabled": true
-},
-{
-"link.source": 0,
-"link.target": 0,
-"link.min": 0.0,
-"link.max": 1.0,
-"link.amount": 1.0,
-"link.viaSource": 0,
-"link.viaAmount": 1.0,
-"link.shaper": 0,
-"link.shaperAmount": 1.0,
-"version": 2,
+0.0,
+0.0
+],
+"quadrantEnabled": {
+"value0": true,
+"value1": true,
+"value2": true,
+"value3": true
+},
+"sliceIncrement": 0,
+"sliceCycleLength": 1,
+"sliceIncrementRngSeed": 147344,
+"playbackOffset": 0.0
+},
+{
+"active": true,
+"volume": {
+"gainCoefficient": 1.0,
+"controlValue": 1.0,
+"law": 1
+},
+"pan": 0.5,
+"pitch": 0.0,
+"coarseTune": 0,
+"fineTune": 0,
+"velocityStart": 0,
+"velocityEnd": 127,
+"sampleStart": 0,
+"sampleEnd": 0,
+"loop": false,
+"loopStart": 0,
+"loopEnd": 0,
+"loopCrossfadeLength": 0,
+"loopFineTune": 0,
+"mute": false,
+"rootNote": 0,
+"keyTrackEnable": false,
+"sampleName": "",
+"sampleFile": "",
+"sliceIndex": 128,
+"direction": 0,
+"offset": 0,
+"sliceInfo": {
+"Start": 0,
+"End": 0,
+"LoopStart": 0,
+"LoopMode": 0,
+"PulsePosition": 0,
+"LoopCrossfadeLength": 0,
+"LoopCrossfadeType": 0,
+"TailLength": 0.0,
+"TailLoopPosition": 0.5,
+"NumLoopRepeats": 0
+},
+"version": 18,
+"pitchRandom": 0.0,
+"VolumeRandom": 0.0,
+"PanRandom": 0.0,
+"OffsetRandom": 0.0,
+"layerLoopModeOverridesSliceLoopMode": false,
+"loopMode": 0,
+"oscillatorMode": false,
+"OscillatorType": "Warm Sine",
+"oscillatorSubTypeName": "",
+"oscillatorParams": [
+0.0,
+0.0,
+0.0,
+0.0,
+0.0,
+0.0,
+0.0
+],
+"quadrantEnabled": {
+"value0": true,
+"value1": true,
+"value2": true,
+"value3": true
+},
+"sliceIncrement": 0,
+"sliceCycleLength": 1,
+"sliceIncrementRngSeed": 147344,
+"playbackOffset": 0.0
+},
+{
+"active": true,
+"volume": {
+"gainCoefficient": 1.0,
+"controlValue": 1.0,
+"law": 1
+},
+"pan": 0.5,
+"pitch": 0.0,
+"coarseTune": 0,
+"fineTune": 0,
+"velocityStart": 0,
+"velocityEnd": 127,
+"sampleStart": 0,
+"sampleEnd": 0,
+"loop": false,
+"loopStart": 0,
+"loopEnd": 0,
+"loopCrossfadeLength": 0,
+"loopFineTune": 0,
+"mute": false,
+"rootNote": 0,
+"keyTrackEnable": false,
+"sampleName": "",
+"sampleFile": "",
+"sliceIndex": 128,
+"direction": 0,
+"offset": 0,
+"sliceInfo": {
+"Start": 0,
+"End": 0,
+"LoopStart": 0,
+"LoopMode": 0,
+"PulsePosition": 0,
+"LoopCrossfadeLength": 0,
+"LoopCrossfadeType": 0,
+"TailLength": 0.0,
+"TailLoopPosition": 0.5,
+"NumLoopRepeats": 0
+},
+"version": 18,
+"pitchRandom": 0.0,
+"VolumeRandom": 0.0,
+"PanRandom": 0.0,
+"OffsetRandom": 0.0,
+"layerLoopModeOverridesSliceLoopMode": false,
+"loopMode": 0,
+"oscillatorMode": false,
+"OscillatorType": "Warm Sine",
+"oscillatorSubTypeName": "",
+"oscillatorParams": [
+0.0,
+0.0,
+0.0,
+0.0,
+0.0,
+0.0,
+0.0
+],
+"quadrantEnabled": {
+"value0": true,
+"value1": true,
+"value2": true,
+"value3": true
+},
+"sliceIncrement": 0,
+"sliceCycleLength": 1,
+"sliceIncrementRngSeed": 147344,
+"playbackOffset": 0.0
+}
+],
+"editAllLayers": false,
+"chopProperties": {
+"version": 1,
+"chopMode": 0,
+"chopThreshold": 65,
+"chopMinSliceTime": 100,
+"chopRegions": 16,
+"chopBars": 1,
+"chopBeats": 4,
+"chopTimeSignature": 2
+},
+"noteCounters": {
+"value0": 2,
+"value1": 2
+},
+"modLinks": [
+{
+"link.source": 0,
+"link.target": 0,
+"link.min": 0.0,
+"link.max": 1.0,
+"link.amount": 1.0,
+"link.viaSource": 0,
+"link.viaAmount": 1.0,
+"link.shaper": 0,
+"link.shaperAmount": 1.0,
+"version": 2,
+"link.bipolar": false,
+"link.enabled": true
+},
+{
+"link.source": 0,
+"link.target": 0,
+"link.min": 0.0,
+"link.max": 1.0,
+"link.amount": 1.0,
+"link.viaSource": 0,
+"link.viaAmount": 1.0,
+"link.shaper": 0,
+"link.shaperAmount": 1.0,
+"version": 2,
 "link.bipolar": false,
 "link.enabled": true
 },
@@ -14610,12 +14610,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -14680,7 +14680,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -14750,12 +14750,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -14820,12 +14820,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -14890,7 +14890,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -14960,12 +14960,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -15030,12 +15030,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -15100,7 +15100,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -16112,12 +16112,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -16182,12 +16182,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -16252,7 +16252,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -16322,12 +16322,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -16392,12 +16392,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -16462,7 +16462,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -16532,12 +16532,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -16602,7 +16602,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -17614,12 +17614,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -17684,12 +17684,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -17754,7 +17754,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -17824,12 +17824,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -17894,12 +17894,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -17964,7 +17964,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -18034,12 +18034,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -18104,12 +18104,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -19116,7 +19116,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -19186,12 +19186,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -19256,12 +19256,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -19326,7 +19326,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -19396,12 +19396,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -19466,12 +19466,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -19536,7 +19536,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -19606,12 +19606,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -20618,12 +20618,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -20688,7 +20688,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -20758,12 +20758,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -20828,12 +20828,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -20898,7 +20898,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -20968,12 +20968,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -21038,7 +21038,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -21108,12 +21108,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -22120,12 +22120,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -22190,7 +22190,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -22260,12 +22260,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -22330,12 +22330,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -22400,7 +22400,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -22470,12 +22470,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -22540,12 +22540,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -22610,7 +22610,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -23622,12 +23622,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -23692,12 +23692,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -23762,7 +23762,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -23832,12 +23832,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -23902,12 +23902,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -23972,7 +23972,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -24042,12 +24042,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -24112,12 +24112,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -25124,7 +25124,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -25194,12 +25194,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -25264,12 +25264,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -25334,7 +25334,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -25404,12 +25404,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -25474,12 +25474,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -25544,7 +25544,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -25614,12 +25614,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -26626,12 +26626,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -26696,7 +26696,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -26766,12 +26766,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -26836,12 +26836,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -26906,7 +26906,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -26976,12 +26976,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -27046,12 +27046,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -27116,7 +27116,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -28128,12 +28128,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -28198,12 +28198,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -28268,7 +28268,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -28338,12 +28338,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -28408,12 +28408,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -28478,7 +28478,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -28548,12 +28548,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -28618,12 +28618,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -29630,7 +29630,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -29700,12 +29700,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -29770,12 +29770,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -29840,7 +29840,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -29910,12 +29910,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -29980,7 +29980,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -30050,12 +30050,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -30120,12 +30120,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -31132,7 +31132,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -31202,12 +31202,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -31272,12 +31272,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -31342,7 +31342,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -31412,12 +31412,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -31482,12 +31482,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -31552,7 +31552,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -31622,12 +31622,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -32634,12 +32634,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -32704,7 +32704,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -32774,12 +32774,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -32844,12 +32844,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -32914,7 +32914,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -32984,12 +32984,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -33054,12 +33054,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -33124,7 +33124,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -34136,12 +34136,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -34206,12 +34206,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -34276,7 +34276,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -34346,12 +34346,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -34416,12 +34416,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -34486,7 +34486,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -34556,12 +34556,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -34626,12 +34626,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -35638,7 +35638,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -35708,12 +35708,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -35778,12 +35778,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -35848,7 +35848,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -35918,12 +35918,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -35988,12 +35988,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -36058,7 +36058,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -36128,12 +36128,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -37140,12 +37140,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -37210,7 +37210,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -37280,12 +37280,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -37350,12 +37350,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -37420,7 +37420,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -37490,12 +37490,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -37560,12 +37560,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -37630,7 +37630,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -38642,12 +38642,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -38712,12 +38712,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -38782,7 +38782,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -38852,12 +38852,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -38922,7 +38922,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -38992,12 +38992,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -39062,12 +39062,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -39132,7 +39132,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -40144,12 +40144,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -40214,12 +40214,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -40284,7 +40284,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -40354,12 +40354,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -40424,12 +40424,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -40494,7 +40494,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -40564,12 +40564,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -40634,12 +40634,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -41646,7 +41646,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -41716,12 +41716,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -41786,12 +41786,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -41856,7 +41856,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -41926,12 +41926,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -41996,12 +41996,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -42066,7 +42066,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -42136,12 +42136,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -43148,12 +43148,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -43218,7 +43218,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -43288,12 +43288,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -43358,12 +43358,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -43428,7 +43428,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -43498,12 +43498,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -43568,12 +43568,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -43638,7 +43638,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -44650,12 +44650,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -44720,12 +44720,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -44790,7 +44790,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -44860,12 +44860,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -44930,12 +44930,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -45000,7 +45000,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -45070,12 +45070,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -45140,12 +45140,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -46152,7 +46152,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -46222,12 +46222,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -46292,12 +46292,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -46362,7 +46362,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -46432,12 +46432,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -46502,12 +46502,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -46572,7 +46572,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -46642,12 +46642,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -47654,12 +47654,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -47724,7 +47724,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -47794,12 +47794,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -47864,7 +47864,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -47934,12 +47934,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -48004,7 +48004,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -48074,12 +48074,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -48144,7 +48144,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -49156,12 +49156,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -49226,7 +49226,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -49296,12 +49296,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -49366,7 +49366,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -49436,12 +49436,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -49506,7 +49506,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -49576,12 +49576,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -49646,7 +49646,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -50658,12 +50658,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -50728,7 +50728,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -50798,12 +50798,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -50868,7 +50868,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -50938,12 +50938,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -51008,7 +51008,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -51078,12 +51078,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -51148,7 +51148,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -52160,12 +52160,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -52230,7 +52230,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -52300,12 +52300,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -52370,7 +52370,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -52440,12 +52440,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -52510,7 +52510,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -52580,12 +52580,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -52650,7 +52650,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -53662,12 +53662,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -53732,7 +53732,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -53802,12 +53802,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -53872,7 +53872,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -53942,12 +53942,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -54012,7 +54012,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -54082,12 +54082,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -54152,7 +54152,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -55164,12 +55164,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -55234,7 +55234,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -55304,12 +55304,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -55374,7 +55374,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -55444,12 +55444,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -55514,7 +55514,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -55584,12 +55584,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -55654,7 +55654,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -56666,12 +56666,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -56736,7 +56736,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -56806,12 +56806,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -56876,7 +56876,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -56946,12 +56946,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -57016,7 +57016,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -57086,12 +57086,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -57156,7 +57156,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -58168,12 +58168,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -58238,7 +58238,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -58308,12 +58308,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -58378,7 +58378,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -58448,12 +58448,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -58518,7 +58518,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -58588,12 +58588,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -58658,7 +58658,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -59670,12 +59670,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -59740,7 +59740,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -59810,12 +59810,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -59880,7 +59880,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -59950,12 +59950,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -60020,7 +60020,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -60090,12 +60090,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -60160,7 +60160,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -61172,12 +61172,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -61242,7 +61242,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -61312,12 +61312,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -61382,7 +61382,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -61452,12 +61452,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -61522,7 +61522,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -61592,12 +61592,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -61662,7 +61662,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -62674,12 +62674,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -62744,7 +62744,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -62814,12 +62814,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -62884,7 +62884,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -62954,12 +62954,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -63024,7 +63024,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -63094,12 +63094,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -63164,7 +63164,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -64176,12 +64176,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -64246,7 +64246,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -64316,12 +64316,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -64386,7 +64386,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -64456,12 +64456,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -64526,7 +64526,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -64596,12 +64596,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -64666,7 +64666,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -65678,12 +65678,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -65748,7 +65748,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -65818,12 +65818,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -65888,7 +65888,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -65958,12 +65958,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -66028,7 +66028,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -66098,12 +66098,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -66168,7 +66168,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -67180,12 +67180,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -67250,7 +67250,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -67320,12 +67320,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -67390,7 +67390,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -67460,12 +67460,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -67530,7 +67530,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -67600,12 +67600,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -67670,7 +67670,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -68682,12 +68682,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -68752,7 +68752,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -68822,12 +68822,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -68892,7 +68892,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -68962,12 +68962,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -69032,7 +69032,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -69102,12 +69102,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -69172,7 +69172,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -70184,12 +70184,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -70254,7 +70254,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -70324,12 +70324,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -70394,7 +70394,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -70464,12 +70464,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -70534,7 +70534,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -70604,12 +70604,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -70674,7 +70674,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -71686,12 +71686,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -71756,12 +71756,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -71826,7 +71826,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -71896,12 +71896,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -71966,7 +71966,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -72036,12 +72036,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -72106,7 +72106,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -72176,12 +72176,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -73188,7 +73188,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -73258,12 +73258,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -73328,7 +73328,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -73398,12 +73398,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -73468,7 +73468,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -73538,12 +73538,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -73608,7 +73608,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -73678,12 +73678,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -74690,7 +74690,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -74760,12 +74760,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -74830,7 +74830,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -74900,12 +74900,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -74970,7 +74970,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -75040,12 +75040,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -75110,7 +75110,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -75180,12 +75180,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -76192,7 +76192,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -76262,12 +76262,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -76332,7 +76332,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -76402,12 +76402,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -76472,7 +76472,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -76542,12 +76542,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -76612,7 +76612,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -76682,12 +76682,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -77694,7 +77694,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -77764,12 +77764,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -77834,7 +77834,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -77904,12 +77904,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -77974,7 +77974,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -78044,12 +78044,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -78114,7 +78114,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -78184,12 +78184,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -79196,7 +79196,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -79266,12 +79266,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -79336,7 +79336,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -79406,12 +79406,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -79476,7 +79476,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -79546,12 +79546,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -79616,7 +79616,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -79686,12 +79686,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -80698,7 +80698,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -80768,12 +80768,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -80838,7 +80838,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -80908,12 +80908,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -80978,7 +80978,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -81048,12 +81048,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -81118,7 +81118,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -81188,12 +81188,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -82200,7 +82200,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -82270,12 +82270,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -82340,7 +82340,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -82410,12 +82410,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -82480,7 +82480,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -82550,12 +82550,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -82620,7 +82620,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -82690,12 +82690,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -83702,7 +83702,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -83772,12 +83772,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -83842,7 +83842,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -83912,12 +83912,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -83982,7 +83982,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -84052,12 +84052,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -84122,7 +84122,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -84192,12 +84192,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -85204,7 +85204,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -85274,12 +85274,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -85344,7 +85344,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -85414,12 +85414,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -85484,7 +85484,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -85554,12 +85554,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -85624,7 +85624,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -85694,12 +85694,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -86706,7 +86706,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -86776,12 +86776,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -86846,7 +86846,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -86916,12 +86916,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -86986,7 +86986,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -87056,12 +87056,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -87126,7 +87126,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -87196,12 +87196,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -88208,7 +88208,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -88278,12 +88278,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -88348,7 +88348,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -88418,12 +88418,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -88488,7 +88488,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -88558,12 +88558,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -88628,7 +88628,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -88698,12 +88698,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -89710,7 +89710,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -89780,12 +89780,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -89850,7 +89850,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -89920,12 +89920,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -89990,7 +89990,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -90060,12 +90060,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -90130,7 +90130,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -90200,12 +90200,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -91212,7 +91212,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -91282,12 +91282,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -91352,7 +91352,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -91422,12 +91422,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -91492,7 +91492,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -91562,12 +91562,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -91632,7 +91632,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -91702,12 +91702,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -92714,7 +92714,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -92784,12 +92784,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -92854,7 +92854,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -92924,12 +92924,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -92994,7 +92994,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -93064,12 +93064,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -93134,7 +93134,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -93204,12 +93204,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -94216,7 +94216,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -94286,12 +94286,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -94356,7 +94356,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -94426,12 +94426,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -94496,7 +94496,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -94566,12 +94566,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -94636,7 +94636,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -94706,12 +94706,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -95718,7 +95718,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -95788,12 +95788,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -95858,12 +95858,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -95928,7 +95928,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -95998,12 +95998,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -96068,7 +96068,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -96138,12 +96138,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -96208,7 +96208,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -97220,12 +97220,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -97290,7 +97290,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -97360,12 +97360,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -97430,7 +97430,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -97500,12 +97500,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -97570,7 +97570,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -97640,12 +97640,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -97710,7 +97710,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -98722,12 +98722,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -98792,7 +98792,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -98862,12 +98862,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -98932,7 +98932,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -99002,12 +99002,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -99072,7 +99072,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -99142,12 +99142,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -99212,7 +99212,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -100224,12 +100224,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -100294,7 +100294,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -100364,12 +100364,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -100434,7 +100434,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -100504,12 +100504,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -100574,7 +100574,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -100644,12 +100644,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -100714,7 +100714,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -101726,12 +101726,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -101796,7 +101796,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -101866,12 +101866,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -101936,7 +101936,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -102006,12 +102006,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -102076,7 +102076,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -102146,12 +102146,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -102216,7 +102216,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -103228,12 +103228,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -103298,7 +103298,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -103368,12 +103368,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -103438,7 +103438,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -103508,12 +103508,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -103578,7 +103578,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -103648,12 +103648,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -103718,7 +103718,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -104730,12 +104730,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -104800,7 +104800,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -104870,12 +104870,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -104940,7 +104940,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -105010,12 +105010,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -105080,7 +105080,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -105150,12 +105150,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -105220,7 +105220,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -106232,12 +106232,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -106302,7 +106302,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -106372,12 +106372,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -106442,7 +106442,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -106512,12 +106512,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -106582,7 +106582,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -106652,12 +106652,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -106722,7 +106722,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -107734,12 +107734,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -107804,7 +107804,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -107874,12 +107874,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -107944,7 +107944,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -108014,12 +108014,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -108084,7 +108084,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -108154,12 +108154,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -108224,7 +108224,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -109236,12 +109236,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -109306,7 +109306,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -109376,12 +109376,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -109446,7 +109446,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -109516,12 +109516,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -109586,7 +109586,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -109656,12 +109656,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -109726,7 +109726,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -110738,12 +110738,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -110808,7 +110808,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -110878,12 +110878,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -110948,7 +110948,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -111018,12 +111018,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -111088,7 +111088,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -111158,12 +111158,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -111228,7 +111228,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -112240,12 +112240,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -112310,7 +112310,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -112380,12 +112380,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -112450,7 +112450,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -112520,12 +112520,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -112590,7 +112590,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -112660,12 +112660,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -112730,7 +112730,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -113742,12 +113742,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -113812,7 +113812,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -113882,12 +113882,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -113952,7 +113952,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -114022,12 +114022,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -114092,7 +114092,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -114162,12 +114162,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -114232,7 +114232,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -115244,12 +115244,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -115314,7 +115314,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -115384,12 +115384,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -115454,7 +115454,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -115524,12 +115524,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -115594,7 +115594,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -115664,12 +115664,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -115734,7 +115734,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -116746,12 +116746,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -116816,7 +116816,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -116886,12 +116886,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -116956,7 +116956,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -117026,12 +117026,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -117096,7 +117096,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -117166,12 +117166,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -117236,7 +117236,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -118248,12 +118248,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -118318,7 +118318,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -118388,12 +118388,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -118458,7 +118458,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -118528,12 +118528,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -118598,7 +118598,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -118668,12 +118668,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -118738,7 +118738,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -119750,12 +119750,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -119820,7 +119820,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -119890,12 +119890,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -119960,12 +119960,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -120030,7 +120030,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -120100,12 +120100,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -120170,7 +120170,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -120240,12 +120240,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -121252,7 +121252,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -121322,12 +121322,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -121392,7 +121392,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -121462,12 +121462,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -121532,7 +121532,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -121602,12 +121602,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -121672,7 +121672,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -121742,12 +121742,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -122754,7 +122754,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -122824,12 +122824,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -122894,7 +122894,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -122964,12 +122964,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -123034,7 +123034,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -123104,12 +123104,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -123174,7 +123174,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -123244,12 +123244,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -124256,7 +124256,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -124326,12 +124326,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -124396,7 +124396,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -124466,12 +124466,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -124536,7 +124536,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -124606,12 +124606,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -124676,7 +124676,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -124746,12 +124746,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -125758,7 +125758,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -125828,12 +125828,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -125898,7 +125898,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -125968,12 +125968,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -126038,7 +126038,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -126108,12 +126108,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -126178,7 +126178,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -126248,12 +126248,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -127260,7 +127260,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -127330,12 +127330,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -127400,7 +127400,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -127470,12 +127470,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -127540,7 +127540,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -127610,12 +127610,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -127680,7 +127680,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -127750,12 +127750,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -128762,7 +128762,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -128832,12 +128832,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -128902,7 +128902,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -128972,12 +128972,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -129042,7 +129042,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -129112,12 +129112,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -129182,7 +129182,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -129252,12 +129252,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -130264,7 +130264,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -130334,12 +130334,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -130404,7 +130404,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -130474,12 +130474,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -130544,7 +130544,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -130614,12 +130614,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -130684,7 +130684,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -130754,12 +130754,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -131766,7 +131766,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -131836,12 +131836,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -131906,7 +131906,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -131976,12 +131976,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -132046,7 +132046,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -132116,12 +132116,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -132186,7 +132186,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -132256,12 +132256,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -133268,7 +133268,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -133338,12 +133338,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -133408,7 +133408,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -133478,12 +133478,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -133548,7 +133548,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -133618,12 +133618,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -133688,7 +133688,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -133758,12 +133758,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -134770,7 +134770,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -134840,12 +134840,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -134910,7 +134910,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -134980,12 +134980,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -135050,7 +135050,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -135120,12 +135120,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -135190,7 +135190,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -135260,12 +135260,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -136272,7 +136272,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -136342,12 +136342,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -136412,7 +136412,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -136482,12 +136482,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -136552,7 +136552,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -136622,12 +136622,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -136692,7 +136692,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -136762,12 +136762,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -137774,7 +137774,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -137844,12 +137844,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -137914,7 +137914,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -137984,12 +137984,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -138054,7 +138054,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -138124,12 +138124,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -138194,7 +138194,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -138264,12 +138264,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -139276,7 +139276,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -139346,12 +139346,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -139416,7 +139416,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -139486,12 +139486,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -139556,7 +139556,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -139626,12 +139626,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -139696,7 +139696,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -139766,12 +139766,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -140778,7 +140778,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -140848,12 +140848,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -140918,7 +140918,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -140988,12 +140988,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -141058,7 +141058,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -141128,12 +141128,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -141198,7 +141198,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -141268,12 +141268,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -142280,7 +142280,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -142350,12 +142350,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -142420,7 +142420,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -142490,12 +142490,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -142560,7 +142560,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -142630,12 +142630,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -142700,7 +142700,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -142770,12 +142770,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -143782,7 +143782,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -143852,12 +143852,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -143922,7 +143922,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -143992,12 +143992,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -144062,12 +144062,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -144132,7 +144132,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -144202,12 +144202,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -144272,7 +144272,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -145284,12 +145284,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -145354,7 +145354,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -145424,12 +145424,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -145494,7 +145494,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -145564,12 +145564,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -145634,7 +145634,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -145704,12 +145704,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -145774,7 +145774,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -146786,12 +146786,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -146856,7 +146856,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -146926,12 +146926,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -146996,7 +146996,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -147066,12 +147066,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -147136,7 +147136,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -147206,12 +147206,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -147276,7 +147276,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -148288,12 +148288,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -148358,7 +148358,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -148428,12 +148428,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -148498,7 +148498,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -148568,12 +148568,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -148638,7 +148638,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -148708,12 +148708,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -148778,7 +148778,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -149790,12 +149790,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -149860,7 +149860,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -149930,12 +149930,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -150000,7 +150000,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -150070,12 +150070,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -150140,7 +150140,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -150210,12 +150210,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -150280,7 +150280,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -151292,12 +151292,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -151362,7 +151362,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -151432,12 +151432,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -151502,7 +151502,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -151572,12 +151572,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -151642,7 +151642,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -151712,12 +151712,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -151782,7 +151782,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -152794,12 +152794,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -152864,7 +152864,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -152934,12 +152934,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -153004,7 +153004,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -153074,12 +153074,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -153144,7 +153144,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -153214,12 +153214,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -153284,7 +153284,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -154296,12 +154296,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -154366,7 +154366,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -154436,12 +154436,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -154506,7 +154506,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -154576,12 +154576,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -154646,7 +154646,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -154716,12 +154716,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -154786,7 +154786,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -155798,12 +155798,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -155868,7 +155868,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -155938,12 +155938,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -156008,7 +156008,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -156078,12 +156078,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -156148,7 +156148,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -156218,12 +156218,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -156288,7 +156288,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -157300,12 +157300,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -157370,7 +157370,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -157440,12 +157440,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -157510,7 +157510,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -157580,12 +157580,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -157650,7 +157650,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -157720,12 +157720,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -157790,7 +157790,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -158802,12 +158802,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -158872,7 +158872,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -158942,12 +158942,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -159012,7 +159012,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -159082,12 +159082,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -159152,7 +159152,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -159222,12 +159222,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -159292,7 +159292,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -160304,12 +160304,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -160374,7 +160374,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -160444,12 +160444,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -160514,7 +160514,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -160584,12 +160584,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -160654,7 +160654,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -160724,12 +160724,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -160794,7 +160794,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -161806,12 +161806,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -161876,7 +161876,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -161946,12 +161946,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -162016,7 +162016,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -162086,12 +162086,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -162156,7 +162156,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -162226,12 +162226,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -162296,7 +162296,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -163308,12 +163308,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -163378,7 +163378,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -163448,12 +163448,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -163518,7 +163518,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -163588,12 +163588,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -163658,7 +163658,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -163728,12 +163728,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -163798,7 +163798,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -164810,12 +164810,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -164880,7 +164880,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -164950,12 +164950,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -165020,7 +165020,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -165090,12 +165090,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -165160,7 +165160,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -165230,12 +165230,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -165300,7 +165300,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -166312,12 +166312,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -166382,7 +166382,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -166452,12 +166452,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -166522,7 +166522,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -166592,12 +166592,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -166662,7 +166662,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -166732,12 +166732,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -166802,7 +166802,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -167814,12 +167814,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -167884,7 +167884,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -167954,12 +167954,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -168024,7 +168024,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -168094,12 +168094,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -168164,12 +168164,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -168234,7 +168234,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -168304,12 +168304,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -169316,7 +169316,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -169386,12 +169386,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -169456,7 +169456,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -169526,12 +169526,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -169596,7 +169596,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -169666,12 +169666,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -169736,7 +169736,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -169806,12 +169806,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -170818,7 +170818,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -170888,12 +170888,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -170958,7 +170958,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -171028,12 +171028,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -171098,7 +171098,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -171168,12 +171168,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -171238,7 +171238,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -171308,12 +171308,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -172320,7 +172320,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -172390,12 +172390,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -172460,7 +172460,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -172530,12 +172530,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -172600,7 +172600,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -172670,12 +172670,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -172740,7 +172740,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -172810,12 +172810,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -173822,7 +173822,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -173892,12 +173892,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -173962,7 +173962,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -174032,12 +174032,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -174102,7 +174102,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -174172,12 +174172,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -174242,7 +174242,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -174312,12 +174312,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -175324,7 +175324,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -175394,12 +175394,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -175464,7 +175464,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -175534,12 +175534,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -175604,7 +175604,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -175674,12 +175674,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -175744,7 +175744,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -175814,12 +175814,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -176826,7 +176826,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -176896,12 +176896,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -176966,7 +176966,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -177036,12 +177036,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -177106,7 +177106,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -177176,12 +177176,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -177246,7 +177246,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -177316,12 +177316,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -178328,7 +178328,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -178398,12 +178398,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -178468,7 +178468,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -178538,12 +178538,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -178608,7 +178608,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -178678,12 +178678,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -178748,7 +178748,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -178818,12 +178818,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -179830,7 +179830,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -179900,12 +179900,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -179970,7 +179970,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -180040,12 +180040,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -180110,7 +180110,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -180180,12 +180180,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -180250,7 +180250,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -180320,12 +180320,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -181332,7 +181332,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -181402,12 +181402,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -181472,7 +181472,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -181542,12 +181542,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -181612,7 +181612,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -181682,12 +181682,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -181752,7 +181752,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -181822,12 +181822,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -182834,7 +182834,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -182904,12 +182904,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -182974,7 +182974,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -183044,12 +183044,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -183114,7 +183114,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -183184,12 +183184,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -183254,7 +183254,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -183324,12 +183324,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -184336,7 +184336,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -184406,12 +184406,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -184476,7 +184476,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -184546,12 +184546,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -184616,7 +184616,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -184686,12 +184686,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -184756,7 +184756,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -184826,12 +184826,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -185838,7 +185838,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -185908,12 +185908,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -185978,7 +185978,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -186048,12 +186048,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -186118,7 +186118,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -186188,12 +186188,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -186258,7 +186258,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -186328,12 +186328,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -187340,7 +187340,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -187410,12 +187410,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -187480,7 +187480,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -187550,12 +187550,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -187620,7 +187620,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -187690,12 +187690,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -187760,7 +187760,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -187830,12 +187830,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -188842,7 +188842,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -188912,12 +188912,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -188982,7 +188982,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -189052,12 +189052,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -189122,7 +189122,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -189192,12 +189192,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -189262,7 +189262,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -189332,12 +189332,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -190344,7 +190344,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -190414,12 +190414,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -190484,7 +190484,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -190554,12 +190554,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -190624,7 +190624,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -190694,12 +190694,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -190764,7 +190764,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -190834,12 +190834,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -191846,7 +191846,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -191916,12 +191916,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -191986,7 +191986,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -192056,12 +192056,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -192126,7 +192126,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
@@ -192196,12 +192196,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -192266,12 +192266,12 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
 0.0,
 0.0,
 0.0,
 0.0,
 0.0,
+0.0,
 0.0
 ],
 "quadrantEnabled": {
@@ -192336,7 +192336,7 @@
 "OscillatorType": "Warm Sine",
 "oscillatorSubTypeName": "",
 "oscillatorParams": [
-0.36730000376701355,
+0.0,
 0.0,
 0.0,
 0.0,
