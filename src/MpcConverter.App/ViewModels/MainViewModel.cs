@@ -44,15 +44,17 @@ public partial class MainViewModel : ObservableObject
     [RelayCommand]
     private void OpenProject()
     {
-        var dlg = new Microsoft.Win32.OpenFolderDialog
+        var dlg = new Microsoft.Win32.OpenFileDialog
         {
-            Title = "Select the MPC project folder (contains the project file)",
+            Title = "Select an MPC project (.xpj)",
+            Filter = "MPC project (*.xpj)|*.xpj",
+            CheckFileExists = true,
         };
         if (dlg.ShowDialog() != true) return;
 
         try
         {
-            _source = ProjectReader.Open(dlg.FolderName);
+            _source = ProjectReader.Open(dlg.FileName);
             _pads = PadAnalyzer.Analyze(_source.Data);
 
             ProjectName = _source.Name;

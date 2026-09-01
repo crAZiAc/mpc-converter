@@ -42,6 +42,25 @@ public class ProjectReaderTests
     }
 
     [Fact]
+    public void Open_XpjFile_FindsProjectDataInSameFolder()
+    {
+        // The supported layout: user selects the .xpj; the "<Name>_[ProjectData]"
+        // folder lives in the SAME folder as the .xpj.
+        var dir = TestUtil.TempDir();
+        System.IO.File.Copy(FixturePaths.HouseXpj,
+            System.IO.Path.Combine(dir, "House os 01.xpj"));
+        var pdDst = System.IO.Path.Combine(dir, "House os 01_[ProjectData]");
+        System.IO.Directory.CreateDirectory(pdDst);
+        foreach (var f in System.IO.Directory.GetFiles(FixturePaths.HouseProjectData))
+            System.IO.File.Copy(f, System.IO.Path.Combine(pdDst, System.IO.Path.GetFileName(f)));
+
+        var p = ProjectReader.Open(System.IO.Path.Combine(dir, "House os 01.xpj"));
+        Assert.Equal("House os 01", p.Name);
+        Assert.True(System.IO.Directory.Exists(p.ProjectDataDir));
+        Assert.Equal(20, System.IO.Directory.GetFiles(p.ProjectDataDir!).Length);
+    }
+
+    [Fact]
     public void Open_FolderWithOnlyXpjAndSamples_Works()
     {
         // Reproduces the layout where a folder holds only the gzipped .xpj plus

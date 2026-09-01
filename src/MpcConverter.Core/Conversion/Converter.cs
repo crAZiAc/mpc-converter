@@ -71,6 +71,10 @@ public static class Converter
         }
         SequenceRewriter.EnsureClipsForAllTracks(data, allTrackNames);
 
+        // The old Sample format can leave gaps in sequence slot numbering; native
+        // projects use contiguous slots and MPC rejects gaps.
+        SequenceRewriter.NormalizeSequenceKeys(data);
+
         doc.FormatVersion = TargetFormatVersion;
 
         var project = new MpcProject

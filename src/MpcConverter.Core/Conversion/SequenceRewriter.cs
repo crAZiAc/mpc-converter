@@ -102,6 +102,43 @@ public static class SequenceRewriter
         }
     }
 
+    /// <summary>
+    /// Renumbers sequence slot keys to be contiguous 0..N-1 (assigned by ascending
+    /// original key) and remaps <c>currentSequence</c> accordingly. The old
+    /// Sample-format source can leave gaps in the slot numbering (e.g. 0,1,4,5);
+    /// every native project uses contiguous slots, and MPC rejects a project with
+    /// gaps, loading a blank default instead.
+    /// </summary>
+    public static void NormalizeSequenceKeys(JsonObject data)
+    {
+        if (data["sequences"] is not JsonArray sequences) return;
+
+        var items = new List<(int OldKey, JsonObject Node)>();
+        foreach (var node in sequences)
+        {
+            if (node is JsonObject o && o["key"] is JsonValue kv && kv.TryGetValue(out int k))
+                items.Add((k, o));
+        }
+        items.Sort((a, b) => a.OldKey.CompareTo(b.OldKey));
+
+        var remap = new Dictionary<int, int>();
+        for (int i = 0; i < items.Count; i++)
+        {
+            remap[items[i].OldKey] = i;
+            items[i].Node["key"] = i; // mutate in place; array order is irrelevant to MPC
+        }
+
+        if (data["currentSequence"] is JsonValue cv && cv.TryGetValue(out int cur) &&
+            remap.TryGetValue(cur, out int newCur))
+        {
+            data["currentSequence"] = newCur;
+        }
+        else if (items.Count > 0)
+        {
+            data["currentSequence"] = 0;
+        }
+    }
+
     private static JsonObject BuildEmptyClip(string name)
     {
         var clip = TemplateStore.Get("clip");

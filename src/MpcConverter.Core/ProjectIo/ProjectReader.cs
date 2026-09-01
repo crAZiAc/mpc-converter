@@ -22,9 +22,12 @@ public static class ProjectReader
 
         if (File.Exists(path) && Directory.Exists(Path.GetDirectoryName(path)))
         {
-            // Pointed at a file directly: either the extension-less inner file or a .xpj.
+            // Pointed at a file directly: either the extension-less inner file or a
+            // .xpj. The "<Name>_[ProjectData]" folder sits in the file's own folder
+            // (the .xpj layout); the parent fallback below covers the older layout
+            // where the inner file lives in a "<Name>/" subfolder.
             (name, doc) = ReadFile(path);
-            sampleSearchDir = Path.GetDirectoryName(Path.GetDirectoryName(path)!)!;
+            sampleSearchDir = Path.GetDirectoryName(path)!;
         }
         else if (Directory.Exists(path))
         {
