@@ -66,7 +66,7 @@ public sealed class ClaudeClassifier : IPadClassifier
         sb.AppendLine("You are grouping AKAI MPC drum pads into instrument tracks.");
         sb.AppendLine("Each pad has one or more sample names. Assign every pad to a short,");
         sb.AppendLine("human-readable destination track name (e.g. \"Drums\", \"Bass\", \"Keys\",");
-        sb.AppendLine("\"Synth\", \"Melodic\", \"FX\"). Group pads that belong to the same instrument");
+        sb.AppendLine("\"Synth\", \"Sample\", \"FX\"). Group pads that belong to the same instrument");
         sb.AppendLine("family onto the same track name.");
         sb.AppendLine();
         sb.AppendLine("Pads:");

@@ -20,11 +20,12 @@ public sealed class RuleBasedClassifier : IPadClassifier
     private static readonly (string Bucket, string[] Keywords)[] DefaultBuckets =
     {
         ("Drums", new[] { "kick", "bdrum", "drum", "snare", "hh", "hat", "clap", "rim",
-                          "crash", "ride", "tom", "perc", "break", "clhat", "clave", "shaker", "cowbell" }),
+                          "crash", "ride", "tom", "perc", "break", "clhat", "clave", "shaker", "cowbell", "kik", "clp", "snr", "cym" }),
         ("Bass",  new[] { "bass", "bas", "sub", "808" }),
         ("Keys",  new[] { "key", "ep", "rhodes", "piano", "organ", "mkt" }),
         ("Synth", new[] { "synth", "lead", "pad", "arp", "saw", "retro", "magic", "deeper", "pluck" }),
-        ("Melodic", new[] { "melodic", "orng", "chord", "string", "violin", "brass", "vox", "voice" }),
+        ("Melodic", new[] { "melodic", "chord", "string", "violin", "brass", "vox", "voice" }),
+        ("Sample", new[] { "chopped", "trim", "sample" }),
     };
 
     private readonly (string Bucket, string[] Keywords)[] _buckets;

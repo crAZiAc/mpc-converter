@@ -29,11 +29,14 @@ public static class ProgramBuilder
 
         var instruments = program["drum"]!["instruments"]!.AsArray();
         var noteForPad = program["padNoteMap"]!["noteForPad"]!.AsObject();
+        var programPads = program["programPads"]!.AsObject();
+        var padColours = programPads["pads"]!.AsObject();
         var sampleIndex = IndexSamples(sourceData);
         var programSamples = new JsonArray();
         var seenSamplePaths = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
 
         var sourceInstruments = sourceDrumProgram["drum"]!["instruments"]!.AsArray();
+        bool isDrumKit = PadColouring.IsDrumKitTrack(dest.Name);
 
         for (int slot = 0; slot < dest.PadIndices.Count; slot++)
         {
@@ -47,7 +50,8 @@ public static class ProgramBuilder
             // Renormalize: this slot is triggered by note 36+slot.
             noteForPad[$"value{slot}"] = MpcJson.BaseNote + slot;
 
-            // Collect the pad's referenced samples into the program's sample list.
+            // Collect the pad's referenced samples; note names for pad colouring.
+            var padSampleNames = new List<string>();
             if (built["layersv"] is JsonArray layers)
             {
                 foreach (var layer in layers)
@@ -55,6 +59,7 @@ public static class ProgramBuilder
                     var file = (string?)layer?["sampleFile"];
                     var name = (string?)layer?["sampleName"];
                     if (string.IsNullOrEmpty(name)) continue;
+                    padSampleNames.Add(name);
                     var key = file ?? name;
                     if (!seenSamplePaths.Add(key)) continue;
                     var sampleObj = LookupSample(sampleIndex, name, file);
@@ -62,9 +67,21 @@ public static class ProgramBuilder
                         programSamples.Add(sampleObj.DeepClone());
                 }
             }
+
+            // On a "Drums" kit track, colour each pad by its drum type.
+            if (isDrumKit)
+                padColours[$"value{slot}"] = PadColouring.ColourForSample(padSampleNames);
         }
 
         program["samples"] = programSamples;
+
+        // Drum-kit tracks show per-pad colours; every other track's pads follow the
+        // track colour.
+        bool follow = !isDrumKit;
+        if (programPads["PadsFollowTrackColour"] is JsonObject pf)
+            pf["value0"] = follow;
+        track["padsFollowTrackColour"] = follow;
+
         track["program"] = program;
         return track;
     }

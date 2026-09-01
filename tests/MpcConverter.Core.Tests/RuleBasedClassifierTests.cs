@@ -36,7 +36,7 @@ public class RuleBasedClassifierTests
     public async Task Classify_UnknownName_GoesToFallback()
     {
         var c = new RuleBasedClassifier();
-        var s = await c.SuggestAsync(new[] { Pad(0, "Sample 016-Normalized-Trimmed") });
+        var s = await c.SuggestAsync(new[] { Pad(0, "Zephyr 042") }); // matches no bucket keyword
         Assert.Equal(RuleBasedClassifier.FallbackBucket, s[0].TrackName);
         Assert.Equal(0.3, s[0].Confidence);
     }

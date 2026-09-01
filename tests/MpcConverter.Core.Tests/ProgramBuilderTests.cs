@@ -59,6 +59,36 @@ public class ProgramBuilderTests
     }
 
     [Fact]
+    public void BuildDrumTrack_DrumsTrack_ColoursPadsByType()
+    {
+        var (data, prog) = LoadHouse();
+        // House pads: 0=BDRUM12(kick) 1=SNARE1(snare) 2=HHCLOSE3(hat) 4=CRASH1(other)
+        var dest = new DestTrack("Drums", new[] { 0, 1, 2, 4 });
+        var track = ProgramBuilder.BuildDrumTrack(data, prog, dest);
+        var program = track["program"]!.AsObject();
+        var pads = program["programPads"]!["pads"]!.AsObject();
+
+        Assert.Equal(PadColouring.Red, (int)pads["value0"]!);    // kick
+        Assert.Equal(PadColouring.Green, (int)pads["value1"]!);  // snare
+        Assert.Equal(PadColouring.Yellow, (int)pads["value2"]!); // hat
+        Assert.Equal(PadColouring.Purple, (int)pads["value3"]!); // crash → other
+
+        // Drum kit shows per-pad colours (does NOT follow track colour).
+        Assert.False((bool)program["programPads"]!["PadsFollowTrackColour"]!["value0"]!);
+        Assert.False((bool)track["padsFollowTrackColour"]!);
+    }
+
+    [Fact]
+    public void BuildDrumTrack_NonDrumsTrack_PadsFollowTrackColour()
+    {
+        var (data, prog) = LoadHouse();
+        var track = ProgramBuilder.BuildDrumTrack(data, prog, new DestTrack("Bass", new[] { 12 }));
+        var program = track["program"]!.AsObject();
+        Assert.True((bool)program["programPads"]!["PadsFollowTrackColour"]!["value0"]!);
+        Assert.True((bool)track["padsFollowTrackColour"]!);
+    }
+
+    [Fact]
     public void BuildDrumTrack_CombineThreePads_SlotsAscend()
     {
         var (data, prog) = LoadHouse();
