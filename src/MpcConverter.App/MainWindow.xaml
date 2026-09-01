@@ -1,0 +1,81 @@
+<Window x:Class="MpcConverter.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:MpcConverter.App.ViewModels"
+        Title="MPC Sample → 3.9 Converter" Height="620" Width="900"
+        WindowStartupLocation="CenterScreen">
+    <Window.DataContext>
+        <vm:MainViewModel/>
+    </Window.DataContext>
+
+    <DockPanel>
+        <!-- Top toolbar -->
+        <ToolBarTray DockPanel.Dock="Top">
+            <ToolBar>
+                <Button Content="Open project…" Command="{Binding OpenProjectCommand}"/>
+                <Separator/>
+                <Button Content="Suggest from names" Command="{Binding SuggestCommand}"/>
+                <Button Content="One track per pad" Command="{Binding OneTrackPerPadCommand}"/>
+                <Button Content="All → one track" Command="{Binding AllToOneCommand}"/>
+                <Separator/>
+                <Button Content="Group selected…" Click="GroupSelected_Click"
+                        ToolTip="Assign all selected pads to one track (Ctrl/Shift-click to multi-select)"/>
+                <Button Content="Skip selected" Click="SkipSelected_Click"/>
+                <Separator/>
+                <Button Content="Settings…" Command="{Binding OpenSettingsCommand}"/>
+            </ToolBar>
+        </ToolBarTray>
+
+        <!-- Status bar -->
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem>
+                <TextBlock Text="{Binding Status}"/>
+            </StatusBarItem>
+        </StatusBar>
+
+        <!-- Header + convert -->
+        <Grid DockPanel.Dock="Top" Margin="10,8">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Orientation="Horizontal">
+                <TextBlock Text="Project: " FontWeight="Bold"/>
+                <TextBlock Text="{Binding ProjectName}"/>
+                <TextBlock Text="   Format: " FontWeight="Bold" Margin="12,0,0,0"/>
+                <TextBlock Text="{Binding FormatVersion}"/>
+            </StackPanel>
+            <Button Grid.Column="1" Content="Convert →" Padding="16,4" FontWeight="Bold"
+                    Command="{Binding ConvertCommand}"/>
+        </Grid>
+
+        <!-- Pad mapping grid -->
+        <DataGrid x:Name="PadGrid" Margin="10,0,10,6"
+                  ItemsSource="{Binding Pads}"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  SelectionMode="Extended"
+                  SelectionUnit="FullRow"
+                  HeadersVisibility="Column"
+                  GridLinesVisibility="Horizontal">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Pad" Binding="{Binding PadIndex}" IsReadOnly="True" Width="50"/>
+                <DataGridTextColumn Header="Note" Binding="{Binding SourceNote}" IsReadOnly="True" Width="55"/>
+                <DataGridTextColumn Header="Sample(s)" Binding="{Binding Samples}" IsReadOnly="True" Width="*"/>
+                <DataGridTextColumn Header="Events" Binding="{Binding EventCount}" IsReadOnly="True" Width="70"/>
+                <DataGridTemplateColumn Header="Destination track" Width="220">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <ComboBox IsEditable="True" StaysOpenOnEdit="True"
+                                      IsTextSearchEnabled="False"
+                                      Text="{Binding DestTrackName, UpdateSourceTrigger=LostFocus}"
+                                      ToolTip="{Binding SuggestionReason}"
+                                      ItemsSource="{Binding DataContext.TrackNameOptions,
+                                                    RelativeSource={RelativeSource AncestorType=Window}}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </DockPanel>
+</Window>

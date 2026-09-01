@@ -1,0 +1,68 @@
+{
+"version": 6,
+"name": "Track",
+"volume": 1.0,
+"volumeKnown": false,
+"pan": 0.5,
+"panKnown": false,
+"mute": false,
+"cvPort": 0,
+"gatePort": 1,
+"velocityScale": 1.0,
+"muteGroup": 0,
+"transposition": 0,
+"colour": 15138560,
+"length": 0,
+"lengthFollowsSequenceLength": true,
+"midiEventsFilter": {
+"channelFilterData": {
+"channel": 255
+},
+"velocityFilterData": {
+"min": 0.0,
+"max": 1.0
+},
+"noteFilterData": {
+"noteRange": {
+"type": 2,
+"data": "11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111"
+}
+},
+"automationFilterData": {
+"filteredParams": "00000000000000000"
+}
+},
+"arrangementClipMap": [],
+"sharedClipMap": [],
+"recordArm": false,
+"skipFromRowLaunch": false,
+"midiBankAndProgramNumber": {
+"midiBankEnable": false,
+"midiBankMsb": 0,
+"midiBankLsb": 0,
+"midiProgramNumberEnable": false,
+"midiProgramNumber": 0
+},
+"midiInputRoute": {
+"inputPort": {
+"type": 0,
+"deviceName": "All Ports",
+"deviceId": "",
+"os": "Linux"
+},
+"inputChannel": 0
+},
+"midiOutputRoute": {
+"outputPort": {
+"type": 1,
+"deviceName": "<none>",
+"deviceId": "",
+"os": "Linux"
+},
+"outputChannel": 16
+},
+"midiMonitorable": {
+"state": 2
+},
+"padsFollowTrackColour": false
+}
