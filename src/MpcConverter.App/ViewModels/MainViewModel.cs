@@ -5,6 +5,8 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Text.Json.Nodes;
+using System.Windows;
+using System.Windows.Media;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using MpcConverter.App.Views;
@@ -21,6 +23,8 @@ public partial class MainViewModel : ObservableObject
 {
     private MpcProject? _source;
     private IReadOnlyList<PadInfo> _pads = Array.Empty<PadInfo>();
+    private readonly MediaPlayer _previewPlayer = new();
+    private readonly Dictionary<string, string> _sampleFilesByName = new(StringComparer.OrdinalIgnoreCase);
 
     public ObservableCollection<PadRowViewModel> Pads { get; } = new();
 
@@ -39,7 +43,17 @@ public partial class MainViewModel : ObservableObject
     [NotifyCanExecuteChangedFor(nameof(AllToOneCommand))]
     private bool _projectLoaded;
 
+    [ObservableProperty]
+    [NotifyCanExecuteChangedFor(nameof(StopPlaybackCommand))]
+    private bool _isPreviewPlaying;
+
     public AppSettings Settings { get; private set; } = AppSettings.Load();
+
+    public MainViewModel()
+    {
+        _previewPlayer.MediaEnded += (_, _) => IsPreviewPlaying = false;
+        _previewPlayer.MediaFailed += OnPreviewFailed;
+    }
 
     [RelayCommand]
     private void OpenProject()
@@ -54,8 +68,11 @@ public partial class MainViewModel : ObservableObject
 
         try
         {
+            StopPlayback();
+
             _source = ProjectReader.Open(dlg.FileName);
             _pads = PadAnalyzer.Analyze(_source.Data);
+            BuildSampleFileIndex();
 
             ProjectName = _source.Name;
             FormatVersion = _source.Document.FormatVersion;
@@ -77,10 +94,47 @@ public partial class MainViewModel : ObservableObject
         catch (Exception ex)
         {
             ProjectLoaded = false;
+            _sampleFilesByName.Clear();
             Status = "Failed to open project: " + ex.Message;
             System.Windows.MessageBox.Show(ex.Message, "Open failed",
                 System.Windows.MessageBoxButton.OK, System.Windows.MessageBoxImage.Error);
         }
+    }
+
+    [RelayCommand(CanExecute = nameof(ProjectLoaded))]
+    private void PlayPad(PadRowViewModel? row)
+    {
+        if (row is null || _source is null)
+            return;
+
+        var samplePath = ResolvePreviewSamplePath(row.Pad);
+        if (samplePath is null)
+        {
+            Status = $"No playable sample file found for pad {row.PadIndex}.";
+            return;
+        }
+
+        try
+        {
+            _previewPlayer.Stop();
+            _previewPlayer.Open(new Uri(samplePath, UriKind.Absolute));
+            _previewPlayer.Position = TimeSpan.Zero;
+            _previewPlayer.Play();
+            IsPreviewPlaying = true;
+            Status = $"Previewing pad {row.PadIndex}: {Path.GetFileName(samplePath)}";
+        }
+        catch (Exception ex)
+        {
+            IsPreviewPlaying = false;
+            Status = "Preview failed: " + ex.Message;
+        }
+    }
+
+    [RelayCommand(CanExecute = nameof(IsPreviewPlaying))]
+    private void StopPlayback()
+    {
+        _previewPlayer.Stop();
+        IsPreviewPlaying = false;
     }
 
     [RelayCommand(CanExecute = nameof(ProjectLoaded))]
@@ -268,6 +322,82 @@ public partial class MainViewModel : ObservableObject
                     total += MpcJson.NoteEvents(clip).Count();
         }
         return total;
+    }
+
+    private void BuildSampleFileIndex()
+    {
+        _sampleFilesByName.Clear();
+
+        var projectDataDir = _source?.ProjectDataDir;
+        if (string.IsNullOrWhiteSpace(projectDataDir) || !Directory.Exists(projectDataDir))
+            return;
+
+        foreach (var file in Directory.EnumerateFiles(projectDataDir, "*", SearchOption.AllDirectories))
+        {
+            var fileName = Path.GetFileName(file);
+            if (!string.IsNullOrWhiteSpace(fileName))
+                _sampleFilesByName.TryAdd(fileName, file);
+
+            var noExt = Path.GetFileNameWithoutExtension(file);
+            if (!string.IsNullOrWhiteSpace(noExt))
+                _sampleFilesByName.TryAdd(noExt, file);
+
+            var rel = Path.GetRelativePath(projectDataDir, file).Replace('\\', '/');
+            if (!string.IsNullOrWhiteSpace(rel))
+                _sampleFilesByName.TryAdd(rel, file);
+        }
+    }
+
+    private string? ResolvePreviewSamplePath(PadInfo pad)
+    {
+        var projectDataDir = _source?.ProjectDataDir;
+        var tokens = pad.SampleFiles.Concat(pad.SampleNames);
+
+        foreach (var token in tokens)
+        {
+            if (string.IsNullOrWhiteSpace(token)) continue;
+
+            if (Path.IsPathRooted(token) && File.Exists(token))
+                return token;
+
+            if (string.IsNullOrWhiteSpace(projectDataDir)) continue;
+
+            var normalized = token.Replace('/', Path.DirectorySeparatorChar);
+            var combined = Path.Combine(projectDataDir, normalized);
+            if (File.Exists(combined))
+                return combined;
+
+            var byName = Path.Combine(projectDataDir, Path.GetFileName(normalized));
+            if (File.Exists(byName))
+                return byName;
+
+            if (_sampleFilesByName.TryGetValue(token, out var indexed) && File.Exists(indexed))
+                return indexed;
+
+            var slash = normalized.Replace('\\', '/');
+            if (_sampleFilesByName.TryGetValue(slash, out indexed) && File.Exists(indexed))
+                return indexed;
+
+            var fileName = Path.GetFileName(normalized);
+            if (!string.IsNullOrWhiteSpace(fileName) &&
+                _sampleFilesByName.TryGetValue(fileName, out indexed) &&
+                File.Exists(indexed))
+                return indexed;
+
+            var bare = Path.GetFileNameWithoutExtension(normalized);
+            if (!string.IsNullOrWhiteSpace(bare) &&
+                _sampleFilesByName.TryGetValue(bare, out indexed) &&
+                File.Exists(indexed))
+                return indexed;
+        }
+
+        return null;
+    }
+
+    private void OnPreviewFailed(object? sender, ExceptionEventArgs e)
+    {
+        IsPreviewPlaying = false;
+        Status = "Preview failed: " + (e.ErrorException?.Message ?? "Unknown media error.");
     }
 
     [RelayCommand]
